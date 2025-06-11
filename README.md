@@ -1,2 +1,2 @@
 # bot.ps1
-alt1 helper
+discord/alt1 based runescape 3 helper
